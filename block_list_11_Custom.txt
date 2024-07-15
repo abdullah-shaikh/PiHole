@@ -1,1 +1,3 @@
 vscode-sync.trafficmanager.net
+storyblok.com
+a-us.storyblok.com
